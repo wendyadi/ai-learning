@@ -1,0 +1,24 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
