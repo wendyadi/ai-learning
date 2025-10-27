@@ -132,7 +132,7 @@ A curated collection of public resources for AI engineering, machine learning, a
 - **[NeurIPS](https://neurips.cc/)** - Neural Information Processing Systems
 - **[ICML](https://icml.cc/)** - International Conference on Machine Learning
 - **[ICLR](https://iclr.cc/)** - International Conference on Learning Representations
-- **[CVPR](https://cvpr2023.thecvf.com/)** - Computer Vision and Pattern Recognition
+- **[CVPR](https://cvpr.thecvf.com/)** - Computer Vision and Pattern Recognition
 
 ## Best Practices and Guidelines
 
